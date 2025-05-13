@@ -21,6 +21,6 @@ This Arduino-based smart weather station measures temperature, humidity, and atm
 3. Power the Arduino via USB or external power supply
 
 ## What I Learned
-- Working with I2C communication protocol
+- Wiring 16 pin LCD configuration
 - Reading data from multiple sensors
 - Displaying formatted data on an LCD screen
